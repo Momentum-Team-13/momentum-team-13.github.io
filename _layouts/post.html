@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<article class="post pb4">
+  <h1 class="f2 pa3  background-gradient">{{ page.title }}</h1>
+
+  <p>
+    Posted on {{ page.date | date_to_string: "ordinal", "US" }}
+  </p>
+
+  <div>
+    {{ page.content }}
+  </div>
+
+  {% if page.tags.size > 0 %}
+  <div class="blog-tags">
+    Tags: {% for tag in page.tags %}
+    <a href="{{ '/tags' | relative_url }}#tag-{{- tag -}}">{{- tag -}}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+</article>
+
+<p>
+  <a href="{{ '/' | relative_url }}">Back to home</a>
+</p>

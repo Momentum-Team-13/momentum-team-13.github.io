@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h1 class="pb3">Posts by tag</h1>
+
+{% for tag in site.tags %}
+<div class="pb3" id="tag-{{ tag[0] }}">
+  <h2>{{ tag[0] }}</h2>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_string: "ordinal", "US" }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endfor %}

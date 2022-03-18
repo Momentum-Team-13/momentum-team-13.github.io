@@ -1,0 +1,96 @@
+@import 'tachyons.min.css';
+:root {
+  --brand-royal-blue: #1a0a6e;
+  --brand-sky-blue: #5cc8d8;
+  --brand-branch-green: #1da57e;
+  --brand-violet: #6e56b1;
+  --brand-ruby-red: #e95d68;
+  --brand-black: #090326;
+  --semi-transparent-green: rgba(29, 165, 126, 0.8);
+  --semi-transparent-blue: rgba(92, 200, 216, 0.8);
+}
+
+.plex-sans {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+code {
+  font-family: 'IBM Plex Mono', monospace;
+  background-color: #f3f1f9;
+  color: var(--brand-violet);
+}
+
+pre > code {
+  display: block;
+  padding: 5px;
+  line-height: 1.5;
+}
+
+.brand-blue {
+  color: var(--brand-royal-blue);
+}
+
+.brand-sky-blue {
+  color: var(--brand-sky-blue);
+}
+
+.brand-violet {
+  color: var(--brand-violet);
+}
+
+.brand-red {
+  color: var(--brand-ruby-red);
+}
+
+.b--brand-blue {
+  border-color: var(--brand-royal-blue);
+}
+
+.b--brand-violet {
+  border-color: var(--brand-violet);
+}
+
+.b--brand-red {
+  border-color: var(--brand-ruby-red);
+}
+
+.b--brand-green {
+  border-color: var(--brand-branch-green);
+}
+
+.post {
+  border-bottom: 4px solid var(--brand-sky-blue);
+}
+
+.background-gradient {
+  background-image: linear-gradient( 0.25turn, var(--semi-transparent-blue), 80%, var(--semi-transparent-green));
+  border-radius: 4px;
+}
+
+a, a:visited, h1, h2, h3, h4, h5, h6 {
+  color: var(--brand-royal-blue);
+}
+
+.img--post {
+  width: 45%;
+  border: 1px solid silver;
+}
+
+blockquote {
+  border-left: 4px solid var(--brand-branch-green);
+  padding-left: 10px;
+  font-style: italic;
+}
+
+ul#results-container {
+  padding: 0;
+  list-style-type: none;
+}
+
+#results-container li {
+  margin-bottom: 1.5rem;
+}
+
+span.post-meta {
+  font-size: 1rem;
+}
