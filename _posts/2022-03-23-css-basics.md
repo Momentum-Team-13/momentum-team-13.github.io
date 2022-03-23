@@ -56,4 +56,4 @@ This assignment is due on **Monday, March 28**, at 9:00 am.
 ## 🦉 Code & Notes
 
 - [CSS Basics notes](https://github.com/Momentum-Team-12/notes/blob/main/css-basics.md)
-- [Example from class: garden store site with CSS]() **Coming after class**
+- [Example from class: bear site with CSS](https://github.com/Momentum-Team-12/example--html) 
