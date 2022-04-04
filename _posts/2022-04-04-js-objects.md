@@ -11,7 +11,7 @@ tags: phase-1 javascript js objects
 
 ## 🎯 Project: Build a customer directory
 
-[Link to assignment invitation](https://classroom.github.com/a/EppeQNHE)
+[Link to assignment invitation](https://classroom.github.com/a/Tn6SAicP)
 We will start this in afternoon class and determine a goal for tonight
 based on where we get to.
 
