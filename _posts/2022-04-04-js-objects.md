@@ -15,6 +15,10 @@ tags: phase-1 javascript js objects
 We will start this in afternoon class and determine a goal for tonight
 based on where we get to.
 
+### Examples from class that will help you
+- [JS Objects with The Simpsons](https://codepen.io/rlconley/pen/wvppXRy)
+- [Find People By City](https://codepen.io/rlconley/pen/poppZLz)
+
 ## 🔖 Resources
 
 - [MDN JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
@@ -32,6 +36,6 @@ based on where we get to.
 
 ## 🦉 Code, Notes & Videos
 
-- [Notes on JS objects](https://github.com/Momentum-Team-11/notes/blob/main/js-objects.md)
+- [Notes on JS objects](https://github.com/Momentum-Team-12/notes/blob/main/js-objects.md)
 - [Example of a basic working calculator](https://github.com/Momentum-Team-11/example-js-calculator) - This is just one way you can do this!
 - [Example: working with JS object data and the DOM](https://github.com/Momentum-Team-11/example-js-object-data-and-the-dom)
