@@ -18,6 +18,8 @@ on the page
 ### Examples from class that will help you
 - [JS Objects with The Simpsons](https://codepen.io/rlconley/pen/wvppXRy)
 - [Find People By City](https://codepen.io/rlconley/pen/poppZLz)
+- [Monday afternoon video about objects](https://us02web.zoom.us/rec/share/hkYKAy0jHF2k05s7Cgz8tAkozZh0viHACNrt5O5zYNg27n3bMMwL_d8YSuQUzd2k.hfZ61wP0YQ9JaLni)
+Access Passcode: t^k8w.US
 
 ## 🔖 Resources
 
