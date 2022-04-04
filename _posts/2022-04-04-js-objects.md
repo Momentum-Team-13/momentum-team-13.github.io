@@ -12,8 +12,8 @@ tags: phase-1 javascript js objects
 ## 🎯 Project: Build a customer directory
 
 [Link to assignment invitation](https://classroom.github.com/a/Tn6SAicP)
-We will start this in afternoon class and determine a goal for tonight
-based on where we get to.
+For Tuesday Morning, 4/5: Start HTML and get at least one customer rendered 
+on the page
 
 ### Examples from class that will help you
 - [JS Objects with The Simpsons](https://codepen.io/rlconley/pen/wvppXRy)
