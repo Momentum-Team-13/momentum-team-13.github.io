@@ -4,9 +4,9 @@ permalink: /presentations/
 layout: default
 ---
 
-# Team Eleven Technical Presentations
+# Team Twelve Technical Presentations
 
-- Phase 1: _Thursday, Feb 17_ 2:00 pm
+- Phase 1: _Thursday, April 14_ 2:00 pm
 
 Each student will give a short technical talk about a JavaScript project that they worked on during the previous weeks of the phase.
 
