@@ -52,5 +52,6 @@ And these for reading the files.
 
 
 ## 🦉 Code & Notes
-
+- [Python List Comprehensions](https://github.com/Momentum-Team-12/notes/blob/main/py-list-comprehensions.md)
+- [Working With Files](https://github.com/Momentum-Team-12/notes/blob/main/py-working-with-files.md)
 - [Intro to Python notebooks](https://github.com/Momentum-Team-12/python-notebooks) (**Notebooks 6-9**)
