@@ -30,6 +30,8 @@ This is a 3-day assignment that you'll work on this week. It is due on Thursday 
 
 ## 🔖 Resources
 
+- [Rebecca's Django Videos](https://loom.com/share/folder/721b7feffe124c4fa9b32eed6940610b)
+
 ### Authentication, Registration, and the User Model in Django
 
 - [django-registration-redux](https://django-registration-redux.readthedocs.io/en/latest/index.html)
