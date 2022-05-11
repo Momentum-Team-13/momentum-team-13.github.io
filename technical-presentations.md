@@ -7,6 +7,7 @@ layout: default
 # Team Twelve Technical Presentations
 
 - Phase 1: _Thursday, April 14_ 2:00 pm
+- Phase 2: _Thursday, May 12_ 2:00pm
 
 Each student will give a short technical talk about a JavaScript project that they worked on during the previous weeks of the phase.
 
@@ -28,7 +29,8 @@ Choose a project that you've done that shows what you learned during the phase.
   - _Without errors_ means that nothing in the project is broken and there are no errors in the console.
 
 - **For Phase 1**, the project must include JavaScript, so you can choose anything from week 2 on.
-
+- **For Phase 2**, you can present any Python or Django project
+- 
 - The size of the project is not important. You should choose a project that you liked doing and that you are excited to talk about.
 
 - You are not expected to sound like an expert or to remember all the right words for everything!
@@ -48,6 +50,15 @@ Choose a project that you've done that shows what you learned during the phase.
 - Point out any interesting parts of this code. Was there something you figured out how to do here that you are proud of? Anything particularly tricky?
 
 You don’t have to read the code to us, but **you should be able to describe how the code works** in terms that your technically skilled audience understands.
+
+**If you are presenting a Django project**
+
+One way to think about presenting is to present one 'page" in the app and talk about its different parts:
+- url
+- view (probably also involves models)
+- template
+- form (if used)
+
 
 ## Example
 

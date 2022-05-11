@@ -8,7 +8,9 @@
     {{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}
   </title>
   {% feed_meta %}
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400&display=swap"
+    rel="stylesheet" />
   <script src="https://kit.fontawesome.com/e6f4c5be1d.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="{{ '/assets/css/momentum.css' | relative_url }}" />
 </head>
@@ -29,12 +31,17 @@
             <a class="link underline-hover" href="{{ '/links/' | relative_url }}">Important links</a>
           </li>
           <li class="pr3">
-            <a class="link underline-hover" href="https://feedrabbit.com/subscriptions/new?url={{ site.url | url_encode }}">
+            <a class="link underline-hover" href="{{ '/presentations/' | relative_url }}">Technical Presentations</a>
+          </li>
+          <li class="pr3">
+            <a class="link underline-hover"
+              href="https://feedrabbit.com/subscriptions/new?url={{ site.url | url_encode }}">
               <i class="far fa-envelope-open"></i> Subscribe via email
             </a>
           </li>
           <li class="pr3">
-            <a class="link underline-hover b" href="{{ '/post-search/' | relative_url }}"><i class="fas fa-search"></i> Search</a>
+            <a class="link underline-hover b" href="{{ '/post-search/' | relative_url }}"><i class="fas fa-search"></i>
+              Search</a>
           </li>
         </ul>
       </nav>
