@@ -19,7 +19,7 @@ tags: phase-1 orientation command-line git github
 3. Make sure your computer is [all set up and ready to go](https://www.notion.so/momentumlearn/Computer-Set-up-Instructions-42f17179ea9c4c769833cf9dc7890e20).
 4. Read the [Really friendly command-line intro](https://drive.google.com/open?id=1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb).
 5. Read the [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n).
-6. Complete the Git-It tutorial (below) and [submit this form when you are done](https://forms.gle/hKL37abHZ7TEoyWT6).
+6. Complete the Git-It tutorial (below) and [submit this form when you are done](https://forms.gle/jvQjs85BJ19JS1cWA).
 
 ## 💻 Today's Project: Git It
 
