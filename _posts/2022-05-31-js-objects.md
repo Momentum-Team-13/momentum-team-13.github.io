@@ -40,4 +40,4 @@ tags: phase-1 javascript js objects
 
 - [Notes on JS objects](https://github.com/Momentum-Team-13/notes/blob/main/js-objects.md)
 - [Example of a basic working calculator](https://github.com/Momentum-Team-11/example-js-calculator) - This is just one way you can do this!
-- [Example: working with JS object data and the DOM](https://github.com/Momentum-Team-13/example-js-object-data-and-the-dom)
+- [Example: working with JS object data and the DOM](https://github.com/Momentum-Team-11/example-js-object-data-and-the-dom)
