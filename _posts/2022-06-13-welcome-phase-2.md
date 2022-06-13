@@ -28,7 +28,7 @@ Welcome to Phase 2, where we'll be learning about back end development. Topics w
 
 ## 🎯 Project
 
-We'll be using the Thinkific content as an introduction to Python concepts.  Please complete the [Python section](https://momentumlearn.thinkific.com/courses/take/back-end-development-with-python-and-django/) through while statements by Tuesday morning, 6/16.  
+We'll be using the Thinkific content as an introduction to Python concepts.  Please complete the [Python section](https://momentumlearn.thinkific.com/courses/take/back-end-development-with-python-and-django/) through while statements by Tuesday morning, 6/14.  
 
 
 ## 🔖 Resources
