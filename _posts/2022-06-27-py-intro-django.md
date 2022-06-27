@@ -31,6 +31,7 @@ You will join your code buddies in breakout rooms this morning.
 
 ## 🔖 Resources
 
+- [Thinkific Django](https://momentumlearn.thinkific.com/courses/take/back-end-development-with-python-and-django/texts/32618875-what-is-django)
 - [MDN: Django Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
 - [MDN: Introducción a Django (Español)](https://developer.mozilla.org/es/docs/Learn/Server-side/Django/Introduction)
 - [Official Django documentation](https://docs.djangoproject.com/en/4.0/)
