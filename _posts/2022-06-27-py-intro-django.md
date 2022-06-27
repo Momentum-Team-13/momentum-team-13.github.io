@@ -51,4 +51,4 @@ You will join your code buddies in breakout rooms this morning.
 
 - [Notes - Tour of a Django App](https://github.com/momentum-team-13/notes/blob/main/django-tour.md)
 - [A diagram of Django's structure](https://github.com/momentum-team-13/notes/blob/main/django-diagram.md)
-- [Django Girls app with pipenv](https://github.com/Momentum-Team-11/example--djangogirls-with-pipenv)
+- [Django Girls app with pipenv](https://github.com/Momentum-Team-13/example-django-girls-with-pipenv)
