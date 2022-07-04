@@ -32,7 +32,9 @@ This is due on **Tuesday**.
 - [Model field `blank=True`](https://docs.djangoproject.com/en/4.0/ref/models/fields/#blank) -> relevant for model object validation
 
 🌶🌶🌶 Useful for the spicy options:
-
+- [Foreign Key to built-in User from DjangoGirls](https://tutorial.djangogirls.org/en/django_models/#creating-a-blog-post-model)
+- [Extending the User model (preferred, used in Uptact)](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html)
+- [Uploading Images](https://djangocentral.com/uploading-images-with-django/)
 
 
 ### Forms
