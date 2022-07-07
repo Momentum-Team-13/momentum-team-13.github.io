@@ -16,7 +16,7 @@ tags: phase-2 django debugging forms queries shell
 
 ## 🎯 Django Music Project due Thursday @ 2:00 pm
 
-Thursday afternoon we will not have class. You should use that time to finish work on your project.
+Thursday afternoon we will not have class. You should use that time to finish work on your presentation.
 
 ## Intro to Collaboration with GitHub 
 
