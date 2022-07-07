@@ -11,7 +11,7 @@ tags: phase-2 django debugging forms queries shell
 - Videos of Django Music review
   - [Wed afternoon M2M](https://us02web.zoom.us/rec/share/7pNVQecU8Y2y-SNkOdgDSXqrRHTB1O3mxLkf1IsjIZPTtTsUcCE08JKJo1_gtCVc.8VkiqRjq0gN-NuNQ)
       Access Passcode: Q?&x@h72
-  - [Tues afternoon SQL & Users](https://us02web.zoom.us/rec/share/jBbYYHxn2j-c7KMH7kaUyg0pu466nfMTsJ7JG1j7iFI3-fIqWzbAy2MVYhzU9upn.6eYNj3agjptZaDOH)
+  - [Tues afternoon SQL, Users, Favorite](https://us02web.zoom.us/rec/share/jBbYYHxn2j-c7KMH7kaUyg0pu466nfMTsJ7JG1j7iFI3-fIqWzbAy2MVYhzU9upn.6eYNj3agjptZaDOH)
       Access Passcode: 2rT$nuN3
 
 ## 🎯 Django Music Project due Thursday @ 2:00 pm
