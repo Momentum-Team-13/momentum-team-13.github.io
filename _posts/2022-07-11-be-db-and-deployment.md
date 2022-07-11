@@ -59,3 +59,5 @@ _These are this week's required readings, videos, and/or podcasts. Read, watch, 
 - [Tutorial: Adding a Custom User Model](https://learndjango.com/tutorials/django-custom-user-model)
 
 ## 👾 Code & Notes
+
+- [Example: Django Music configured for auth and postgres](https://github.com/Momentum-Team-13/example-django-music)
