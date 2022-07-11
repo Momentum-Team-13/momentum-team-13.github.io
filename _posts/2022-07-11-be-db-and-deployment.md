@@ -52,11 +52,26 @@ _These are this week's required readings, videos, and/or podcasts. Read, watch, 
 
 ## 🔖 Resources
 
+### Authentication, Registration, and the User Model in Django
+
+- [django-registration-redux](https://django-registration-redux.readthedocs.io/en/latest/index.html)
+    - We are using the [simple (one-step) backend](https://django-registration-redux.readthedocs.io/en/latest/simple-backend.html#the-simple-one-step-backend)
+- [Django docs: User Authentication](https://docs.djangoproject.com/en/4.0/topics/auth/#user-authentication-in-django)
+- [Django docs: built-in User Model](https://docs.djangoproject.com/en/4.0/ref/contrib/auth/#user-model) -> _documentation for all the things you get for free with the User from Django_
+- [Django docs: Extending the built-in User Model with AbstractUser](https://docs.djangoproject.com/en/4.0/topics/auth/customizing/#extending-django-s-default-user)
+    - [Django Best Practices: Custom User Model](https://learndjango.com/tutorials/django-custom-user-model) -> _This tutorial is good to read for an overview, but you don't need to follow the instructions to implement the forms to create or change a user, since we are using the `django-registration-redux` package for that._
+- [Django docs: Authentication in Web Requests](https://docs.djangoproject.com/en/4.0/topics/auth/default/#authentication-in-web-requests) -> _`django-registration-redux` handles some of this for us (giving us the login and logout urls, for instance) but it's helpful to see other ways you can use the authenticated user._
+- [The `login_required` decorator](https://docs.djangoproject.com/en/4.0/topics/auth/default/#the-login-required-decorator)
+- [Limiting access to logged-in users that pass a test](https://docs.djangoproject.com/en/4.0/topics/auth/default/#limiting-access-to-logged-in-users-that-pass-a-test)
+
+
 - [🚀 Deploying a Django app to Heroku](https://momentumlearn.notion.site/Deploying-a-Django-App-to-Heroku-81488333c03445539bfc7eb3c1691ed0)
 - [Using Postgres Locally](https://momentumlearn.notion.site/Using-Postgres-Locally-6d24cd1ea8854eabb875023d6696fba9)
 - [Django Docs: Deployment Checklist](https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/)
 - [How to use django-extensions `shell_plus`](https://django-extensions.readthedocs.io/en/latest/shell_plus.html#shell-plus)
 - [Tutorial: Adding a Custom User Model](https://learndjango.com/tutorials/django-custom-user-model)
+
+
 
 ## 👾 Code & Notes
 
