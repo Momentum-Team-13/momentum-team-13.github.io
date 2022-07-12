@@ -50,4 +50,4 @@ If you finish this and want to keep going, try one of these other tutorials:
 
 ## 🦉 Code
 
-- [The Most Minimal React App](https://github.com/Momentum-Team-11/example-first-react)
+- [The Most Minimal React App](https://github.com/Momentum-Team-13/example-first-react)
