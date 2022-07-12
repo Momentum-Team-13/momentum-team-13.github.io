@@ -51,3 +51,4 @@ You can think of queries as talking to the database. To support all our CRUD act
 - [Deploying a Django App to Heroku](https://momentumlearn.notion.site/Deploying-a-Django-App-to-Heroku-81488333c03445539bfc7eb3c1691ed0)
 - [Using Postgres Locally](https://momentumlearn.notion.site/Using-Postgres-Locally-6d24cd1ea8854eabb875023d6696fba9)
 - [⭐ Django Queries Cheat Sheet](https://github.com/Momentum-Team-13/notes/blob/main/django-queries.md)
+- [Habit Tracker ER Diagram](https://github.com/Momentum-Team-13/notes/blob/main/er-diagram.md)
