@@ -17,7 +17,7 @@ title: Momentum Team 13 Course Site
 team_name: "Team 13"
 tagline: A Jekyll template for course websites
 description: Based on Kevin Lin's Just The Class jekyll theme
-baseurl: '/docs' # the subpath of your site, e.g. /blog
+baseurl: '/staging' # the subpath of your site, e.g. /blog
 url: 'https://momentum-team-13.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ".jekyll-cache", ".sass-cache"]
 
