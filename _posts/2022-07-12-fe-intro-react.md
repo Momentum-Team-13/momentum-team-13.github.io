@@ -51,3 +51,4 @@ If you finish this and want to keep going, try one of these other tutorials:
 ## 🦉 Code
 
 - [The Most Minimal React App](https://github.com/Momentum-Team-13/example-first-react)
+- [Exercism from class](https://github.com/Momentum-Team-13/notes/blob/main/exercism-etl.md)
