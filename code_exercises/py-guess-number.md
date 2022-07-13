@@ -1,6 +1,7 @@
 ---
 title: "Python Code Break: Modules"
 layout: default
+nav_exclude: true
 ---
 
 ## Working with modules

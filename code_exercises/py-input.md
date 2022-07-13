@@ -1,6 +1,7 @@
 ---
 title: Python Code Break 1
 layout: default
+nav_exclude: true
 ---
 
 ## Working with input and output

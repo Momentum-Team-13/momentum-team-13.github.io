@@ -1,6 +1,7 @@
 ---
 title: "Python Code Break: OO"
 layout: default
+nav_exclude: true
 ---
 
 ## Define a User class and create user objects

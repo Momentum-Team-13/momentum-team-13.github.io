@@ -1,0 +1,10 @@
+---
+---
+
+<div class="daily-post post--bordered">
+  <span class="text-beta mmntm-red">
+    {% if page.date %} {{ page.date | date: "%A %B %e, %Y" }} {% endif %}
+  </span>
+  <h2>{{ page.title }}</h2>
+  <div>{{ content }}</div>
+</div>

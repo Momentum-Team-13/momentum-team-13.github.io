@@ -1,0 +1,48 @@
+- title: Welcome to Python
+  phase: 2
+  date: 2022-06-13
+  url: phase2/welcome.md
+  lab_url: #
+  resources_url: resources/py-basics.md
+- title: Python Conditionals and Loops
+  phase: 2
+  date: 2022-06-14
+  url: phase2/py-exercises.md
+  lab_url: #
+  resources_url: resources/py-basics.md
+- title: Python Lists and Dictionaries
+  phase: 2
+  date: 2022-06-15
+  url: phase2/py-lists-and-dicts.md
+  lab_url: #
+  resources_url: resources/py-lists-and-dicts.md
+- title: Python List Comprehensions and Lambdas
+  phase: 2
+  date: 2022-06-16
+  url: phase2/py-list-comps.md
+  lab_url: #
+  resources_url: resources/py-lists-and-dicts.md
+- title: Object-Oriented Programming in Python
+  phase: 2
+  date: 2022-06-22
+  url: phase2/py-oop.md
+  lab_url: #
+  resources_url: resources/py-oop.md
+- title: Getting Used to Working in Django
+  phase: 2
+  date: 2022-06-27
+  url: phase2/py-intro-django.md
+  lab_url: #
+  resources_url: resources/py-django.md
+- title: Django CRUD
+  phase: 2
+  date: 2022-07-01
+  url: phase2/py-django-crud.md
+  lab_url: #
+  resources_url: resources/py-django.md
+- title: Django Wrap Up 🎬
+  phase: 2
+  date: 2022-07-06
+  url: phase2/py-django-wrap-up.md
+  lab_url: #
+  resources_url: resources/py-django.md

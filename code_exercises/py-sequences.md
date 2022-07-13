@@ -1,6 +1,7 @@
 ---
 title: "Python Code Break: Sequences"
 layout: default
+nav_exclude: true
 ---
 
 ## Exercise: working with sequences

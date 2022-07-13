@@ -1,0 +1,7 @@
+<article class="topic pb4">
+  <h1 class="f2 pa3">{{ title }}</h1>
+
+  <p>Posted on {{ date | date_to_string: "ordinal", "US" }}</p>
+
+  <div>{{ content }}</div>
+</article>

@@ -1,0 +1,66 @@
+- title: Git and the Command Line
+  phase: 1
+  date: 2022-05-16
+  url: phase1/welcome.md
+  lab_url:
+  resources_url: resources/git-and-cli.md
+- title: HTML
+  phase: 1
+  date: 2022-05-17
+  url: phase1/html.md
+  lab_url: https://classroom.github.com/a/1Pmra0Z1
+  resources_url: resources/html.md
+- title: CSS Basics
+  phase: 1
+  date: 2022-05-18
+  url: phase1/css-basics.md
+  lab_url: https://classroom.github.com/a/XNxyGiQf
+  resources_url: resources/css-basics.md
+- title: CSS Layout
+  phase: 1
+  date: 2022-05-19
+  url: phase1/css-layout.md
+  lab_url: https://classroom.github.com/a/XNxyGiQf
+  resources_url: resources/css-layout.md
+- title: JavaScript Basics
+  phase: 1
+  date: 2022-05-23
+  url: phase1/js-basics.md
+  lab_url: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+  resources_url: resources/js-basics.md
+- title: JavaScript Loops & Functions
+  phase: 1
+  date: 2022-05-24
+  url: phase1/js-loops-functions.md
+  lab_url: #
+  resources_url: resources/js-basics.md
+- title: JavaScript Arrays
+  phase: 1
+  date: 2022-05-25
+  url: phase1/js-arrays.md
+  lab_url: #
+  resources_url: resources/js-arrays.md
+- title: JS & the DOM
+  phase: 1
+  date: 2022-05-26
+  url: phase1/js-dom.md
+  lab_url: #
+  resources_url: resources/js-dom.md
+- title: JavaScript Objects
+  phase: 1
+  date: 2022-05-31
+  url: phase1/js-objects.md
+  lab_url:
+  resources_url: resources/js-objects.md
+- title: AJAX & APIs
+  phase: 1
+  date: 2022-06-01
+  url: phase1/js-ajax.md
+  lab_url:
+  resources_url: resources/js-ajax-and-apis.md
+- title: JS and Forms
+  phase: 1
+  date: 2022-06-06
+  url: phase1/js-forms.md
+  lab_url: #
+  resources_url: resources/js-forms.md

@@ -1,6 +1,7 @@
 ---
 title: "Python Code Break: list comprehensions and formatting output"
 layout: default
+nav_exclude: true
 ---
 
 ## Working with list comprehensions and formatting output

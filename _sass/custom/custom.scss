@@ -1,0 +1,272 @@
+// Just the Class dependencies
+@import 'card';
+
+// Just the Class styles
+@import 'general_post';
+@import 'module';
+@import 'schedule';
+@import 'staffer';
+
+// Momentum
+@import '../color_schemes/mmntm';
+
+
+// Overrides
+a abbr[title] {
+  border-bottom: none;
+}
+
+abbr[title] {
+  text-decoration: none;
+}
+
+code {
+  font-size: 14px;
+  padding: 0.2em 0.4em;
+  border: none;
+}
+
+div.highlighter-rouge[overlay] {
+  position: relative;
+
+  &::after {
+    @extend .label, .text-grey-dk-100;
+
+    background-color: $white;
+    border-radius: $border-radius;
+    bottom: $sp-2;
+    content: attr(overlay);
+    position: absolute;
+    right: 0;
+    user-select: none;
+  }
+}
+
+details {
+  margin: 0 40px 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  align-items: center;
+  display: flex;
+  color: $brand-royal-blue;
+}
+
+iframe,
+summary {
+  max-width: 100%;
+}
+
+summary {
+  @extend .btn, .btn-outline;
+}
+
+.main-content-wrap {
+  max-width: $content-width;
+  margin: auto;
+}
+
+.main-content {
+  a {
+    overflow-wrap: anywhere;
+    white-space: normal;
+  }
+
+  dl {
+    display: block;
+    grid-template-columns: none;
+  }
+
+  dt {
+    font-weight: 700;
+    text-align: start;
+
+    &::after {
+      content: normal;
+    }
+  }
+
+  dd {
+    font-weight: normal;
+
+    + dt {
+      margin-top: 1em;
+    }
+  }
+
+  .katex {
+    font-size: 1.1em;
+  }
+}
+
+[style*="--aspect-ratio"] > :first-child {
+  width: 100%;
+}
+
+[style*="--aspect-ratio"] > img {
+  height: auto;
+}
+
+@supports (--custom:property) {
+  [style*="--aspect-ratio"] {
+    position: relative;
+  }
+
+  [style*="--aspect-ratio"]::before {
+    content: "";
+    display: block;
+    padding-bottom: calc(100% / (var(--aspect-ratio)));
+  }
+
+  [style*="--add-height"]::before {
+    padding-bottom: calc(100% / (var(--aspect-ratio)) + (var(--add-height)));
+  }
+
+  [style*="--aspect-ratio"] > :first-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+  }
+}
+
+// momentum styles
+.team-name {
+  padding-right: 20px;
+  font-size: 24px;
+  color: $brand-ruby-red;
+}
+
+hr {
+  height: 1px;
+  padding: 0;
+  margin: 2rem 0;
+  background-color: #eeebee;
+  border: 0;
+}
+
+.page-date {
+  color: $brand-royal-blue;
+}
+
+.resource-section {
+  border-bottom: 1px solid $brand-sky-blue;
+}
+
+.resource-heading {
+  color: $brand-ruby-red;
+}
+
+.details-toc {
+  margin: 0;
+}
+
+.details-toc > summary:first-of-type {
+  display: list-item;
+  counter-increment: list-item 0;
+  list-style: inside disclosure-closed;
+}
+
+.details-toc[open] > summary:first-of-type {
+  list-style-type: disclosure-open;
+}
+
+ul#markdown-toc > li::before {
+    position: absolute;
+    margin-left: -1.4em;
+    color: #959396;
+    content: "";
+}
+
+.mmntm-blue {
+  color: $brand-royal-blue;
+}
+
+.mmntm-lt-blue {
+  color: $brand-sky-blue;
+}
+
+.mmntm-red {
+  color: $brand-ruby-red;
+}
+
+.mmntm-purple {
+  color: $brand-violet;
+}
+
+.mmntm-green {
+  color: $brand-branch-green;
+}
+
+.label-mmntm-red {
+  background-color: $brand-ruby-red;
+  &:hover{
+    background-color: darken($brand-ruby-red, 20%);
+  }
+}
+
+.label-mmntm-purple {
+  background-color: $brand-violet;
+  &:hover{
+    background-color: darken($brand-violet, 20%);
+  }
+}
+
+.label-mmntm-lt-blue {
+  background-color: $brand-sky-blue;
+  &:hover{
+    background-color: darken($brand-sky-blue, 20%);
+  }
+}
+
+.label-mmntm-green {
+  background-color: $brand-branch-green;
+  &:hover{
+    background-color: darken($brand-branch-green, 20%);
+  }
+}
+
+.label-mmntm-blue {
+  background-color: $brand-royal-blue;
+  &:hover{
+    background-color: lighten($brand-royal-blue, 40%);
+  }
+}
+
+.be-label {
+  background-color: $brand-violet;
+}
+
+.fe-label {
+  background-color: $brand-ruby-red;
+}
+
+.resources-label {
+  @extend .label-mmntm-blue;
+}
+
+.lab-label {
+  @extend .label-mmntm-lt-blue;
+}
+
+.announcement-label {
+  background-color: $brand-branch-green;
+}
+
+.announcement-detail {
+  @extend .pt-3;
+  border-bottom: 1px solid $brand-royal-blue;
+}
+
+.post--bordered {
+  border-bottom: 3px solid $brand-sky-blue;
+}
+
+.img--post {
+  width: 80%;
+  border: 1px solid $grey-lt-100;
+}
+
+strong {
+  color: $grey-dk-300;
+}

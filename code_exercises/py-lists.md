@@ -1,6 +1,7 @@
 ---
 title: Python Code Break 3
 layout: default
+nav_exclude: true
 ---
 
 ## Working with lists

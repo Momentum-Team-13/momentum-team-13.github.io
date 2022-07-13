@@ -1,0 +1,33 @@
+- title: Welcome To Phase 3
+  tag: announcement
+  phase: 3
+  date: 2022-07-11
+  url: posts/index.html
+- title: Welcome to Advanced Back End
+  tag: be
+  phase: 3
+  date: 2022-07-11
+  url: phase3-be/db-and-deployment.md
+  lab_url: https://classroom.github.com/a/vE6TJEWx
+  resources_url: resources/py-django.md
+- title: Welcome to Advanced Front End
+  tag: fe
+  phase: 3
+  date: 2022-07-11
+  url: phase3-fe/js-es6.md
+  lab_url: https://exercism.org/tracks/javascript
+  resources_url: resources/js-for-react.md
+- title: Django Models & Queries
+  tag: be
+  phase: 3
+  date: 2022-07-12
+  url: phase3-be/models-and-queries.md
+  lab_url: https://classroom.github.com/a/vE6TJEWx
+  resources_url: resources/py-django.md
+- title: Intro to React
+  tag: fe
+  phase: 3
+  date: 2022-07-12
+  url: phase3-fe/intro-react.md
+  lab_url: https://classroom.github.com/a/YDIyNl-y
+  resources_url: resources/react.md

@@ -1,0 +1,12 @@
+.daily-post {
+  @extend %card;
+
+  h1, h2 {
+    @extend .text-gamma;
+  }
+
+  .daily-post-meta {
+    @extend .text-epsilon;
+  }
+
+}
