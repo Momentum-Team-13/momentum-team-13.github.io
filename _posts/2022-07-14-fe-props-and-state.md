@@ -50,3 +50,4 @@ We need to care about the look and feel of the UI, but sometimes (like now when 
 ## 🦉 Code and Notes
 
 - [JS for React](https://github.com/Momentum-Team-13/notes/blob/main/js-for-react.md)
+- [Example: React Devs For Hire](https://github.com/Momentum-Team-13/example-react-devs)
