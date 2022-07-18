@@ -55,7 +55,7 @@ This project is due by class time tomorrow.
 
 ## 👾 Code
 
-- [React Devs for Hire](https://github.com/Momentum-Team-13/example-react-devs-for-hire)
+- [React Devs for Hire](https://github.com/Momentum-Team-13/example-react-devs)
 - [CodePen flexbox example](https://codepen.io/amygori/pen/xxYLZyX)
 - [CodePen grid example](https://codepen.io/amygori/pen/wvyqMXb)
 - [React Freeshelf](https://github.com/Momentum-Team-13/example-react-freeshelf)
