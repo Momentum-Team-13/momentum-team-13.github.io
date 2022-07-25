@@ -19,12 +19,12 @@ Choose the one that sounds more fun or interesting to you.
 #### Social ECards
 
 - [Project description](https://github.com/momentum-projects/group--social-cards/blob/main/README.md)
-- [Social ECards assignment invitation](https://classroom.github.com/a/RFQy0DNo)
+- [Social ECards assignment invitation](https://classroom.github.com/a/cfWvFEC8)
 
 #### QuestionBox
 
 - [Project description](https://github.com/momentum-projects/group--questionbox/blob/main/README.md)
-- [QuestionBox assignment invitation](https://classroom.github.com/a/cfWvFEC8)
+- [QuestionBox assignment invitation](https://classroom.github.com/a/RFQy0DNo)
 
 Whichever one you choose, your whole team is building the same one.
 
