@@ -40,3 +40,7 @@ Review the core concepts of how React works by reading these visual guides.
 - [What is React?](https://learnreact.design/posts/what-is-react)
 - [React Mental Model: Cutting Holes in HTML](https://learnreact.design/posts/react-mental-model-cut-holes-in-html-template)
 - [Props & State explained](https://learnreact.design/posts/props-state-reexplained)
+
+## 👾 Code
+
+- [Example: Partially implemented React Trivia](https://github.com/Momentum-Team-13/example-react-trivia)
