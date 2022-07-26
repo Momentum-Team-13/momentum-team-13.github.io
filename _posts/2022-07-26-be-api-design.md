@@ -62,6 +62,7 @@ This is very much optional right now but important to learn about at some point 
 - [Video on the second normal form](https://youtu.be/A9sezRxNhWY)
 - [Video on the third normal form](https://youtu.be/GP_RcibUicQ)
 
-## 👾 Code
+## 👾 Code & Notes
 
+- [Notes on HTTP verbs, CRUD actions, and URLs](https://docs.google.com/document/d/14nBPDt05rO7tFK3Pphq_CjjQhxLVmW3uNmncA7z88RY/edit)
 - [Example Library API](https://github.com/Momentum-Team-13/example-drf-library)
