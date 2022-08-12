@@ -69,7 +69,7 @@ layout: default
     - 11:30 am Team Swan-Lake
     - 12:00 pm Team Purple Rain
     - 12:30 pm Team Flamingo
-- 1:00-2:00 pm **Second rehearsal with staff**
+- 1:30-2:30 pm **Second rehearsal with staff**
     - All teams together
     - Please have your screencast done, at least in first draft
 - 3:30 pm **Final screencast video & blurb due** to Jessica  ([Google Drive link](https://drive.google.com/drive/folders/19fU4MwJvKPv_AnKQ3GyUw2A4gTm0thgE?usp=sharing))
